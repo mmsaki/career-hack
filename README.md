@@ -1,4 +1,4 @@
-# Career Services
+# Career Hack
 ### How You’re Supported:
 ● Career Materials – Unlimited feedback on professional materials to help you become employer-competitive.
 ● Career Coaching – Quality coaching, strategies, and resources to help you become employer-competitive.

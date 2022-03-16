@@ -52,18 +52,18 @@ Up-to-date LinkedIn profile with strong bio statement, professional photo, links
 Include a professional profile photo
 Complete as many challenges as you can
 Contribute solutions to challenge message boards
-Compete in as many HackerRank community competitions as you can • Complete the HackerRank interview preparation kit
+Compete in as many HackerRank community competitions as you can. Complete the HackerRank interview preparation kit
 ## Build Your Visibility
 Maintain an active HackerRank presence and profile.
 Attend all employer facing events organized by the boot camp.
 Attend 1-2 local Meetups / Eventbrite events per week, make 2-3 solid connections per event.
-Create business cards, include desired title, links to GitHub, LinkedIn, and QR code for CV/resume. • Reach out to your entire network to let them know what types of roles you’re looking for.
+Create business cards, include desired title, links to GitHub, LinkedIn, and QR code for CV/resume. Reach out to your entire network to let them know what types of roles you’re looking for.
 Use LinkedIn to connect weekly with 5 employees/decision makers.
 Conduct 3+ informational interviews weekly with industry leaders.
 Follow desired companies on social media.
 ## Prepare for a Successful Interview
 Attend a behavioral interview session.
-Research common behavioral interview questions, write answers, practice until your answers flow. • Schedule a 1:1 mock behavioral interview with your Career Director.
+Research common behavioral interview questions, write answers, practice until your answers flow. Schedule a 1:1 mock behavioral interview with your Career Director.
 Attend technical interview sessions.
 Practice whiteboard interviewing.
 Complete HackerRank interview preparation kit.
